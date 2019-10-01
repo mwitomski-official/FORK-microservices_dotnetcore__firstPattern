@@ -8,7 +8,7 @@
 
 I want use it to development my app.
 
-# Information
+## Description
 This is an example of a very simplified insurance sales system made in a microservice architecture using:
 
 * .NET Core 2.1
